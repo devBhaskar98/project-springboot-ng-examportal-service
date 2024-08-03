@@ -1,2 +1,3 @@
 server:
-  port=3030
+  app:
+    port=3030
